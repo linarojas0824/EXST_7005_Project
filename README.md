@@ -17,4 +17,7 @@ It is a post hoc test frequently applied in statistical analysis, after conducti
   - Independece of observations between the groups. <br>
   - Equality of variances (homoscedasticity): Conducting the Levene Test for Homogeneity of Variance. <br> 
   - Normality of the residuals: Applying the KS test (Kolmogorov-Smirnov). <br>
+<br>
+**DATASET REFERENCE:** <br>
+_Death Rates for Suicide, by Sex, Race, Hispanic Origin, and Age: United States - Catalog. 28 Apr. 2022, catalog.data.gov/dataset/death-rates-for-suicide-by-sex-race-hispanic-origin- and-age-united-states-020c1._
 
