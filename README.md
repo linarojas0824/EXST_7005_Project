@@ -1,6 +1,7 @@
 # EXST_7005_Project
 The aim of this project is to use statistical methods to determine which race group has the most significant influence on suicide rates in the United States.<br>
-**Statistical Model:** <br>
+<br>
+**STATISTICAL MODEL:** <br>
 <br>
 **ANOVA (One-way test)** <br>
 Analysis of Varience (One way), is a statistical method used to determine any statistically significant differences in the means of three or more independent groups. It essentially compares the means of differenr groups to determine if they are significantly different from each other. <br>
